@@ -1,0 +1,128 @@
+@media (max-width: 768px) {
+  .widthcontainer {
+    width: 100%;
+  }
+  .widthcontainerrr {
+    width: 90%;
+  }
+  .bestseller {
+    position: relative;
+    bottom: 150px;
+    width: 80%;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(112, 112, 112, 1);
+  }
+
+  .widther {
+    width: 100% !important;
+  }
+  .medicine {
+    width: 55%;
+    padding-left: 0px;
+  }
+  .specialffer {
+    position: relative;
+    top: 20px;
+    width: 50%;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(75, 69, 102, 1);
+  }
+  .parentblackbutton {
+    padding: 10px 0px;
+  }
+  .maindivv {
+    position: relative;
+    bottom: 0px;
+  }
+  .stylesmallbutton {
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    background-color: rgba(92, 255, 51, 1);
+    color: rgba(39, 44, 27, 1);
+    font-weight: bold;
+    border: 1px solid rgba(92, 255, 51, 1);
+    border-radius: 5px;
+    left: 0px;
+    top: 10px;
+  }
+  .headingancien {
+    font-family: Young Serif;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .sellbutton {
+    position: relative;
+    bottom: 120px;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: rgba(221, 43, 161, 1);
+    border: 1px solid rgba(221, 43, 161, 1);
+    padding: 5px 70px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+  }
+  .hyyy {
+    padding-left: 0px;
+  }
+  .effecktheading {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .sliming {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+
+  .headingg {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+  }
+  .effecktivheading {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0em;
+  }
+}
+
+@media (max-width: 426px) {
+  .widthcontainer {
+    width: 100%;
+  }
+  .widthcontainerrr {
+    width: 94%;
+  }
+  .headingg {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+  }
+}
