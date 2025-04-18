@@ -35,28 +35,48 @@ function Listitem() {
       <div className="py-3">
         <img src={smallwomenimage} alt="No Display" loading="lazy" />
         <span className="px-lg-3 px-2 erma-heading">Ema Thomas</span>
-        <img className="dotimage" src={dotimage} alt="No Display" loading="lazy"/>
+        <img
+          className="dotimage"
+          src={dotimage}
+          alt="No Display"
+          loading="lazy"
+        />
         <span className="px-lg-2 px-1 text-primary erma-heading">
           Professioneller Berater
         </span>
-        <img src={checkicon} alt="No Display" loading="lazy"/>
+        <img src={checkicon} alt="No Display" loading="lazy" />
       </div>
       <div className="medicineimage py-lg-3 py-2">
-        <img className="medicineimage" src={medicines} alt="No Display" loading="lazy"/>
+        <img
+          className="medicineimage"
+          src={medicines}
+          alt="No Display"
+          loading="lazy"
+        />
       </div>
       <div className="hello py-3">
         <span className="minutes">5 minutes read</span>
         <span className="px-lg-2 px-0"> 3 days ago</span>
-        <img className="px-2" src={balckdot} alt="No Display" loading="lazy"/>
+        <img className="px-2" src={balckdot} alt="No Display" loading="lazy" />
 
         <span>
-          <img className="px-lg-2 px-1" src={eye} alt="No Display" loading="lazy"/>
+          <img
+            className="px-lg-2 px-1"
+            src={eye}
+            alt="No Display"
+            loading="lazy"
+          />
         </span>
 
         <span className=" px-1">245.8K</span>
 
         <span>
-          <img className=" px-lg-2 px-0" src={message} alt="No Display" loading="lazy"/>
+          <img
+            className=" px-lg-2 px-0"
+            src={message}
+            alt="No Display"
+            loading="lazy"
+          />
         </span>
 
         <span className="px-1">3.2K</span>
@@ -235,7 +255,7 @@ function Listitem() {
       {/* this is first image part */}
       <div>
         <div className="d-flex py-4">
-          <img src={gold} alt="No Display" loading="lazy"/>
+          <img src={gold} alt="No Display" loading="lazy" />
 
           <div className="pt-4 px-3">
             <h4 className="mb-0 pltx">Platz 1 & Testsieger</h4>
@@ -243,7 +263,12 @@ function Listitem() {
           </div>
         </div>
         <div className="medicineimage py-lg-3 py-2">
-          <img className="medicineimage" src={Sgimage} alt="No Display" loading="lazy"/>
+          <img
+            className="medicineimage"
+            src={Sgimage}
+            alt="No Display"
+            loading="lazy"
+          />
         </div>
       </div>
       {/* greenborderone started */}
@@ -256,7 +281,12 @@ function Listitem() {
       >
         <div className="text-center">
           <span className="vorteile">Vorteile</span>
-          <img className="okay px-3 pb-3" src={okay} alt="NO Display" loading="lazy"/>
+          <img
+            className="okay px-3 pb-3"
+            src={okay}
+            alt="NO Display"
+            loading="lazy"
+          />
         </div>
         <div>
           <p className="greenpara mb-0 px-2">
@@ -356,7 +386,7 @@ function Listitem() {
       </div>
       <div className=" pb-3">
         <div className="d-flex py-4">
-          <img src={goldtwo} alt="No Display" loading="lazy"/>
+          <img src={goldtwo} alt="No Display" loading="lazy" />
 
           <div className="pt-4 px-3">
             <h4 className="mb-0 pltx">Platz 2</h4>
@@ -364,7 +394,12 @@ function Listitem() {
           </div>
         </div>
         <div className="medicineimage py-lg-3 py-2">
-          <img className="medicineimage" src={Ibmedicine} alt="No Display" loading="lazy"/>
+          <img
+            className="medicineimage"
+            src={Ibmedicine}
+            alt="No Display"
+            loading="lazy"
+          />
         </div>
       </div>
       {/* greenbordertwo started */}
@@ -377,7 +412,12 @@ function Listitem() {
       >
         <div className="text-center">
           <span className="vorteile py-5">Vorteile</span>
-          <img className="okay px-3 pb-3" src={okay} alt="NO Display" loading="lazy"/>
+          <img
+            className="okay px-3 pb-3"
+            src={okay}
+            alt="NO Display"
+            loading="lazy"
+          />
         </div>
         <div>
           <p className="greenpara mb-0 px-2 py-2">
@@ -461,7 +501,12 @@ function Listitem() {
           </div>
         </div>
         <div className="medicineimage py-lg-3 py-2">
-          <img className="medicineimage" src={bplus} alt="No Display" loading="lazy"/>
+          <img
+            className="medicineimage"
+            src={bplus}
+            alt="No Display"
+            loading="lazy"
+          />
         </div>
       </div>
       {/* greenborderthree started */}
@@ -474,7 +519,12 @@ function Listitem() {
       >
         <div className="text-center">
           <span className="vorteile py-5">Vorteile</span>
-          <img className="okay px-3 pb-3" src={okay} alt="NO Display" loading="lazy"/>
+          <img
+            className="okay px-3 pb-3"
+            src={okay}
+            alt="NO Display"
+            loading="lazy"
+          />
         </div>
         <div>
           <p className="greenpara mb-0 px-2 py-2">
@@ -489,8 +539,9 @@ function Listitem() {
             Enthält <b>L-Theanin,</b> das beruhigende Eigenschaften haben kann.
           </p>
           <p className="greenpara mb-0 px-2 pb-2">
-            Hochkonzentriert: Die Formel ist hochkonzentriert, was auf eine
-            potenziell starke Wirkung hinweisen kann.
+            Besonders Gummies und Kapselprodukte sind aus dem Schatten getreten
+            und haben sich zu ernsthaften Konkurrenten der traditionellen Shakes
+            entwickelt.
           </p>
           <p className="greenpara mb-0 px-2 pb-2">
             F Ohne Gentechnik hergestellt.
