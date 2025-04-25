@@ -580,10 +580,9 @@ function Listitem() {
             und Garcinia Cambogia HCA Extract enthält, gibt es potenzielle
             Nachteile in Bezug auf
             <b>
-              mögliche Empfindlichkeiten gegenüber bestimmten Inhaltsstoffen und
-              Wechselwirkungen mit Medikamenten.
+            Possible sensitivities to certain ingredients and interactions with medications.
             </b>
-            Dies hat zu seiner Platzierung auf dem 3. Platz geführt.
+            This led to his placement in 3rd place.
           </p>
         </div>
         <div className="px-lg-5 px-md-5 px-3 pb-4 pt-5 text-center">
